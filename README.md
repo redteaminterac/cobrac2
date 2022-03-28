@@ -1,2 +1,2 @@
 # CobraCloudC2
-A post exploitation C2 tool with serverless capabilities with inbult cloud exploiting framework
+A serverless C&C for on prem and cloud workloads penetration testing with inbult cloud penetration testing framework
